@@ -1,1 +1,2 @@
 # Automated-Language-Proficiency-Assessment
+Introducing the Automated Language Proficiency Assessment Application, a powerful tool designed to evaluate essay inputs across six key parameters, providing scores on a scale from 0 to 5. This application tailored to assist new English learners in receiving automated grading and enhancing their language skills, significantly reducing the need for manual grading efforts. The application harnesses the capabilities of LSTM technology to deliver accurate and efficient assessments.
